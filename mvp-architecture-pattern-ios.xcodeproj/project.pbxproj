@@ -143,7 +143,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 28F2C81320C04EDA00104933 /* Build configuration list for PBXProject "mvp-Architecture-pattern-ios" */;
+			buildConfigurationList = 28F2C81320C04EDA00104933 /* Build configuration list for PBXProject "mvp-architecture-pattern-ios" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -361,7 +361,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		28F2C81320C04EDA00104933 /* Build configuration list for PBXProject "mvp-Architecture-pattern-ios" */ = {
+		28F2C81320C04EDA00104933 /* Build configuration list for PBXProject "mvp-architecture-pattern-ios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				28F2C83E20C04EDC00104933 /* Debug */,

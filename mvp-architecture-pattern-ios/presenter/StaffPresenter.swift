@@ -14,7 +14,7 @@ class StaffPresenter: NSObject {
     private let staffService : StaffService
     weak private var staffView: StaffView?
     
-    
+
     init(staffService: StaffService) {
         self.staffService = staffService
     }

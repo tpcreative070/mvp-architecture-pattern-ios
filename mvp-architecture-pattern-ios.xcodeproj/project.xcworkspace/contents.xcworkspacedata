@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:mvp-Architecture-pattern-ios.xcodeproj">
+      location = "self:/Volumes/KSDevelop/IOSDevelop/mvp-Architecture-pattern-ios/mvp-architecture-pattern-ios.xcodeproj">
    </FileRef>
 </Workspace>
